@@ -23,11 +23,9 @@ node_modules/
 tmp/
 temp/
 hooks/
-platforms/
-plugins/
-plugins/android.json
-plugins/ios.json
 www/
+plugins/
+Applozic-Cordova-Ionic-PhoneGap-Chat-Plugin/
 $RECYCLE.BIN/
 
 .DS_Store
